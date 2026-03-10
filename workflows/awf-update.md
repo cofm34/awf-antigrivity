@@ -73,7 +73,7 @@ AWF đã được nâng cấp lên v[version].
 👉 Thử /recap để kiểm tra.
 ```
 
-## CHANGELOG v4.1.0
+## CHANGELOG v4.1.2
 
 - 🆕 **Eternal Context System** - Auto-save context
 - 🆕 Skill `awf-auto-save`

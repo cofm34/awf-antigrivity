@@ -56,7 +56,7 @@ GRAY='\033[0;90m'
 NC='\033[0m' # No Color
 
 # Get version from repo
-CURRENT_VERSION=$(curl -fsSL "$REPO_BASE/VERSION" 2>/dev/null || echo "4.1.0")
+CURRENT_VERSION=$(curl -fsSL "$REPO_BASE/VERSION" 2>/dev/null || echo "4.1.2")
 CURRENT_VERSION=$(echo "$CURRENT_VERSION" | tr -d '\r\n ')
 
 echo ""

@@ -3,7 +3,7 @@
 > **Extension framework for Antigravity Agent.**
 > Transform your AI into a professional team (PM, Designer, Coder) with standardized workflows.
 
-[![Version](https://img.shields.io/badge/version-4.0.1-blue.svg)](https://github.com/cofm34/awf-antigrivity)
+[![Version](https://img.shields.io/badge/version-4.1.2-blue.svg)](https://github.com/cofm34/awf-antigrivity)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ---
@@ -213,7 +213,7 @@ To check and update to the latest version:
 
 ## Changelog
 
-### v4.0.1 (Latest)
+### v4.1.2 (Latest)
 - Fix Windows install script issues
 - Improved Session Restore skill
 - Added `/awf-update` workflow

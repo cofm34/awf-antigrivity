@@ -1,9 +1,9 @@
-# ⚡ AWF v4.0 - Antigravity Workflow Framework
+# ⚡ AWF v4.1.2 - Antigravity Workflow Framework
 
 > **Framework mở rộng cho Antigravity Agent.**
 > Biến AI của bạn thành một đội ngũ chuyên nghiệp (PM, Designer, Coder) với quy trình làm việc chuẩn.
 
-[![Version](https://img.shields.io/badge/version-4.1.0-blue.svg)](https://github.com/cofm34/awf-antigrivity)
+[![Version](https://img.shields.io/badge/version-4.1.2-blue.svg)](https://github.com/cofm34/awf-antigrivity)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-awfweb.pages.dev-8b5cf6.svg)](https://awfweb.pages.dev/)
 
@@ -100,7 +100,7 @@ Mở file `docs/index.html` để xem hướng dẫn đầy đủ với giao di�
 
 ## 📜 Changelog
 
-### v4.1.0 (Latest)
+### v4.1.2 (Latest)
 - 🆕 **Eternal Context System** - Auto-save để không bao giờ mất context
 - 🆕 Skill `awf-auto-save` với trigger thông minh
 - 🆕 3-Tier lazy loading cho session restore
