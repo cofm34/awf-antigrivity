@@ -5,9 +5,7 @@
 
 [![Version](https://img.shields.io/badge/version-4.1.2-blue.svg)](https://github.com/cofm34/awf-antigrivity)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-awfweb.pages.dev-8b5cf6.svg)](https://awfweb.pages.dev/)
 
-🌐 **Website:** [https://awfweb.pages.dev/](https://awfweb.pages.dev/)
 
 ---
 
@@ -91,12 +89,7 @@ AI sẽ hỏi bạn muốn làm dự án gì và tự động hướng dẫn t�
 /awf-update
 ```
 
----
 
-## 📚 Tài Liệu Chi Tiết
-Mở file `docs/index.html` để xem hướng dẫn đầy đủ với giao diện đẹp.
-
----
 
 ## 📜 Changelog
 
